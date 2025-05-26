@@ -4,11 +4,11 @@ I am a Machine Learning Engineer specializing in Deep Learning and Computer Visi
 
 ---
 
-## 🚀 About Me
+## My Specialization
 
 - Passionate about building impactful AI solutions and advancing computer vision research  
 - Experienced with Python, TensorFlow, PyTorch, and production ML pipelines  
-- Interested in applying ML for healthcare, finance, and autonomous systems
+- Interested in applying ML for healthcare, finance, and marketing
 
 ---
 
