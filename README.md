@@ -16,7 +16,7 @@ I am a Machine Learning Engineer specializing in Deep Learning and Computer Visi
 
 Here are some of the public projects I’ve developed and contributed to:
 
-### Artificial Intelligence & Machine Learning
+
 
 ### **SmartRisk: ALM Risk Monitoring Dashboard**  
 An early warning system for Asset-Liability Management (ALM) risk built with machine learning and Streamlit.  
