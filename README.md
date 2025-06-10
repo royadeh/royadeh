@@ -37,7 +37,7 @@ Built with PyTorch, Docker, and deployed on Google Cloud Platform (GCP).
 - Supports intelligent matching and ranking  
 - Containerized and optimized for cloud deployment  
 - Easy to integrate as a RESTful API  
-[GitHub Repo](https://github.com/royadeh/API-GCP-RecomSystem)
+[Recommender System](https://github.com/royadeh/API-GCP-RecomSystem)
 
 ---
 
@@ -47,21 +47,14 @@ Built with PyTorch, Docker, and deployed on Google Cloud Platform (GCP).
 - Multiple models: Mahalanobis, k-NN, density ratio  
 - Visual anomaly heatmaps with Matplotlib  
 - Top anomalies ranked for each method  
- [Github Repo](https://github.com/royadeh/Data-Science/blob/main/AnamolyDetection.ipynb)
+ [Anomaly Detection](https://github.com/royadeh/Data-Science/blob/main/AnamolyDetection.ipynb)
 
 ---
 
 ### Decision Tree-Based Credit Risk Prediction
 
 Developed a decision tree classifier on a financial credit dataset to predict credit risk. Implemented performance evaluation via cross-validation and holdout testing, and analyzed model overfitting via depth tuning.  
-[View Notebook](https://github.com/royadeh/Data-Science/blob/main/Decision%20Tree-Based%20Credit%20Risk%20Prediction.ipynb)
-
----
-
-### Credit Risk Prediction with Decision Tree and K-Nearest Neighbors
-
-Implemented and compared decision tree and KNN classifiers for credit risk prediction.  
-[Github Repo](https://github.com/royadeh/Data-Science/edit/main/Credit%20Risk%20Prediction%20with%20Decision%20Tree%20and%20K-Nearest%20Neighbors.ipynb)
+[Decision Tree-Based Credit Risk Prediction](https://github.com/royadeh/Data-Science/blob/main/Decision%20Tree-Based%20Credit%20Risk%20Prediction.ipynb)
 
 ---
 
