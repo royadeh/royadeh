@@ -15,9 +15,6 @@ Application Areas: Intelligent automation, Movie script analysis, Industrial mon
 
 ## My Public Projects
 
-Here are some of the public projects:
-
-
 
 ### Unsupervised Deep Learning for Human Re-Identification
 
