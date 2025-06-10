@@ -25,7 +25,7 @@ A convolutional neural network for person re-identification across multiple came
 - Leverages transfer learning and knowledge distillation techniques  
 - Designed for unsupervised learning without labeled data  
 - Robust to cross-camera appearance variations  
-[Unsupervised Deep Learning for Human Re-Identification](https://github.com/royadeh/royadeh/Unsupervised-Deep-Learning-Human-Re_Identification)
+[Unsupervised Deep Learning for Human Re-Identification](https://github.com/royadeh/Unsupervised-Deep-Learning-Human-Re_Identification)
 
 
 ---
