@@ -6,29 +6,20 @@ I am a Machine Learning Engineer specializing in Deep Learning and Computer Visi
 
 ## My Specialization
 
-- Passionate about developing impactful AI solutions and advancing research in computer vision  
-- Experienced with Python, TensorFlow, PyTorch, and production ML pipelines  
-- Interested in applying machine learning for healthcare, finance, and marketing
+Artificial Intelligence & Machine Learning: LLMs, RAG, NLP, Deep learning, Computer Vision, Anomaly detection, Recommender Systems
+Software Development: Full-stack development, REST APIs, Docker, Scalable ML pipelines, Agile collaboration
+Application Areas: Intelligent automation, Movie script analysis, Industrial monitoring, Image processing, Customer analytics
+
 
 ---
 
-## 📂 My Public Projects
+## My Public Projects
 
-Here are some of the public projects I’ve developed and contributed to:
+Here are some of the public projects:
 
 
 
-### **SmartRisk: ALM Risk Monitoring Dashboard**  
-An early warning system for Asset-Liability Management (ALM) risk built with machine learning and Streamlit.  
-- Simulates realistic financial data  
-- Predicts risk scores with XGBoost  
-- Detects anomalies with Isolation Forest  
-- Interactive dashboard for monitoring  
-[GitHub Repo](https://github.com/yourusername/smartrisk)
-
----
-
-### 🔍 Unsupervised Deep Learning for Human Re-Identification
+### Unsupervised Deep Learning for Human Re-Identification
 
 A convolutional neural network for person re-identification across multiple camera views.  
 - Leverages transfer learning and knowledge distillation techniques  
@@ -48,14 +39,13 @@ Built with PyTorch, Docker, and deployed on Google Cloud Platform (GCP).
 
 ---
 
-### 📊 Anomaly Detection in 2D Data
+### Anomaly Detection 
 
-Demonstrates **unsupervised anomaly detection** using parametric, distance-based, and density-based models on synthetic 2D datasets (`compound`, `flame`, `pathbased`, and `G-data`).  
 - No labels required — fully unsupervised  
 - Multiple models: Mahalanobis, k-NN, density ratio  
 - Visual anomaly heatmaps with Matplotlib  
 - Top anomalies ranked for each method  
-🧠 [View the Anomaly Detection Notebook](https://github.com/royadeh/Data-Science/blob/main/AnamolyDetection.ipynb)
+ [Github Repo](https://github.com/royadeh/Data-Science/blob/main/AnamolyDetection.ipynb)
 
 ---
 
@@ -69,21 +59,16 @@ Developed a decision tree classifier on a financial credit dataset to predict cr
 ### Credit Risk Prediction with Decision Tree and K-Nearest Neighbors
 
 Implemented and compared decision tree and KNN classifiers for credit risk prediction.  
-[View Notebook](https://github.com/royadeh/Data-Science/edit/main/Credit%20Risk%20Prediction%20with%20Decision%20Tree%20and%20K-Nearest%20Neighbors.ipynb)
+[Github Repo](https://github.com/royadeh/Data-Science/edit/main/Credit%20Risk%20Prediction%20with%20Decision%20Tree%20and%20K-Nearest%20Neighbors.ipynb)
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-Feel free to reach out for collaboration opportunities!  
-- Website: [roya-dehghani.com](https://roya-dehghani.com)  
+Feel free to reach out for collaboration opportunities.   
 - Email: royadehghani94@gmail.com  
 - LinkedIn: [linkedin.com/in/rdehghani](https://linkedin.com/in/rdehghani)
 
----
 
-## ⚡ Fun Fact
-
-I’m passionate about hiking and photography when I’m not coding :)
 
 ---
