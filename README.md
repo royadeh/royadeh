@@ -1,4 +1,4 @@
-# Hi there, My name is Roya Dehghani
+# Hi there, my name is Roya Dehghani
 
 I am a Machine Learning Engineer specializing in Deep Learning and Computer Vision. I hold both a bachelor's and master's degree in Computer Science, with a focus on Machine Learning. During my master’s degree, I was awarded a prestigious AI scholarship from the Vector Institute.
 
