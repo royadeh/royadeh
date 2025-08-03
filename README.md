@@ -1,13 +1,15 @@
 # Hi there, my name is Roya Dehghani
 
-I am a Machine Learning Engineer specializing in Deep Learning and Computer Vision. I hold both a bachelor's and master's degree in Computer Science, with a focus on Machine Learning. During my master’s degree, I was awarded a prestigious AI scholarship from the Vector Institute.
+I am a Machine Learning Engineer specializing in Deep Learning and Computer Vision. I hold both bachelor's and master's degrees in Computer Science, with a focus on Machine Learning. During my master’s degree, I was awarded a prestigious AI scholarship from the Vector Institute as well.
 
 ---
 
 ## My Specialization
 
-**Artificial Intelligence & Machine Learning:** LLMs, RAG, NLP, Deep learning, Computer Vision, Anomaly detection, Recommender Systems.    
+**Artificial Intelligence & Machine Learning:** LLMs, RAG, NLP, Deep learning, Computer Vision, Anomaly detection, Recommender Systems. 
+
 **Software Development:** Full-stack development, REST APIs, Docker, Scalable ML pipelines, Agile collaboration.  
+
 **Application Areas:** Intelligent automation, Movie script analysis, Industrial monitoring, Image processing, Customer analytics
 
 
@@ -55,6 +57,16 @@ Developed a decision tree classifier on a financial credit dataset to predict cr
 
 ---
 
+### Discord-Based Movie Recommendation System Enhanced with ChatGPT
+
+A Discord-based movie recommender system using collaborative filtering and ChatGPT to deliver personalized suggestions with natural-language summaries.
+
+- **Personalized Recommendations**: Uses collaborative filtering to suggest movies tailored to the user’s taste.
+- **Machine Learning-Based**: Built with the [Surprise](http://surpriselib.com/) library and trained on the MovieLens dataset.
+- **Natural Language Summaries**: Integrates OpenAI's ChatGPT API to generate human-like descriptions for each recommended movie.
+- **Discord Bot Integration**: Fully functional Discord bot that responds to user commands and provides real-time recommendations.
+
+[Movie Recommender Bot with OpenAI-Powered Summaries](https://github.com/royadeh/Smart-Movie-Recommender-System-with-Natural-Language-Descriptions)
 ## Contact Me
 
 Feel free to reach out for collaboration opportunities.   
