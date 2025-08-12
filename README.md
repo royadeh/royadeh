@@ -26,7 +26,12 @@ A convolutional neural network for person re-identification across multiple came
 - Robust to cross-camera appearance variations  
 [Unsupervised Deep Learning for Human Re-Identification](https://github.com/royadeh/Unsupervised-Deep-Learning-Human-Re_Identification)
 
+---
 
+### Healthcare Q&A Chatbot Using Sentence Embeddings and Gemini
+
+A conversational chatbot that helps users understand healthcare topics by retrieving relevant patient education materials using sentence embeddings and generating simplified, easy-to-understand explanations with the Gemini language model. It combines advanced embedding techniques with Gemini’s conversational AI to provide clear, patient-friendly responses.
+[Healthcare Q&A Chatbot Using Sentence Embeddings and Gemini]()
 
 ---
 
