@@ -1,4 +1,4 @@
-# Hi there, my name is Roya Dehghani
+# This is Roya Dehghani
 
 I am a Machine Learning Engineer specializing in Deep Learning and Computer Vision. I hold both bachelor's and master's degrees in Computer Science, with a focus on Machine Learning. During my master’s degree, I was awarded a prestigious AI scholarship from the Vector Institute as well.
 
@@ -23,7 +23,8 @@ I am a Machine Learning Engineer specializing in Deep Learning and Computer Visi
 A convolutional neural network for person re-identification across multiple camera views.  
 - Leverages transfer learning and knowledge distillation techniques  
 - Designed for unsupervised learning without labeled data  
-- Robust to cross-camera appearance variations  
+- Robust to cross-camera appearance variations
+  
 [Unsupervised Deep Learning for Human Re-Identification](https://github.com/royadeh/Unsupervised-Deep-Learning-Human-Re_Identification)
 
 ---
@@ -41,7 +42,8 @@ A conversational chatbot that helps users understand healthcare topics by retrie
 Built with PyTorch, Docker, and deployed on Google Cloud Platform (GCP).  
 - Supports intelligent matching and ranking  
 - Containerized and optimized for cloud deployment  
-- Easy to integrate as a RESTful API  
+- Easy to integrate as a RESTful API
+  
 [Recommender System](https://github.com/royadeh/API-GCP-RecomSystem)
 
 ---
@@ -51,7 +53,8 @@ Built with PyTorch, Docker, and deployed on Google Cloud Platform (GCP).
 - No labels required — fully unsupervised  
 - Multiple models: Mahalanobis, k-NN, density ratio  
 - Visual anomaly heatmaps with Matplotlib  
-- Top anomalies ranked for each method  
+- Top anomalies ranked for each method
+  
  [Anomaly Detection](https://github.com/royadeh/Data-Science/blob/main/AnamolyDetection.ipynb)
 
 ---
