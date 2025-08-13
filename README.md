@@ -6,12 +6,9 @@ I am a Machine Learning Engineer specializing in Deep Learning and Computer Visi
 
 ## My Specialization
 
-**Artificial Intelligence & Machine Learning:** LLMs, RAG, NLP, Deep learning, Computer Vision, Anomaly detection, Recommender Systems. 
+**Artificial Intelligence & Machine Learning: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Deep Learning, Computer Vision.
 
-**Software Development:** Full-stack development, REST APIs, Docker, Scalable ML pipelines, Agile collaboration.  
-
-**Application Areas:** Intelligent automation, Movie script analysis, Industrial monitoring, Image processing, Customer analytics
-
+**Software Development: Software Development: Full-stack development, RESTful APIs, Docker, scalable machine learning pipelines, Agile collaboration.
 
 ---
 
