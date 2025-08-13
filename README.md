@@ -31,6 +31,7 @@ A convolutional neural network for person re-identification across multiple came
 ### Healthcare Q&A Chatbot Using Sentence Embeddings and Gemini
 
 A conversational chatbot that helps users understand healthcare topics by retrieving relevant patient education materials using sentence embeddings and generating simplified, easy-to-understand explanations with the Gemini language model. It combines advanced embedding techniques with Gemini’s conversational AI to provide clear, patient-friendly responses.
+
 [Healthcare Q&A Chatbot Using Sentence Embeddings and Gemini](https://github.com/royadeh/Healthcare-Q-A-Chatbot-Using-Sentence-Embeddings-and-Gemini/tree/main)
 
 ---
