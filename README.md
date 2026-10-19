@@ -1,30 +1,22 @@
 # Roya Dehghani
-I am an Applied AI Scientist specializing in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and production AI systems. I build end-to-end AI applications that combine machine learning, cloud infrastructure, and modern GenAI technologies to solve real-world business problems.
 
-I hold an M.Sc. in Computer Science and was awarded a competitive AI scholarship from the Vector Institute for Artificial Intelligence.
+**AI Engineer | LLM applications, RAG & evaluation**
 
----
-## Current Focus
+I build LLM applications end to end, from retrieval and evaluation to deployment, and I'm developing a test-first workflow with AI coding agents. M.Sc. in Computer Science, Vector Institute AI Scholar.
 
-- Building production LLM applications with Amazon Bedrock
-- Retrieval-Augmented Generation (RAG)
-- AI evaluation and LLM quality assessment
-- Forecasting and predictive machine learning
-- MLOps and scalable AI deployment
-  
-## My Specialization
+## Featured: working with Claude Code
 
-- **Applied AI & Generative AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Evaluation, Prompt Engineering, Amazon Bedrock, Natural Language Processing (NLP), Forecasting, Predictive Modeling.
+a FastAPI + SQLite API built test-first with Claude Code. 78 tests, a `CLAUDE.md` with my rules, and pull requests with my own review comments. The README explains what I delegated, what I decided and what I checked myself.
 
-- **Machine Learning & Software Engineering:** Python, Deep Learning, PyTorch, TensorFlow, REST APIs, Docker, scalable ML pipelines, cloud deployment, Agile development.
+[bookmarks-api-claude-code](https://github.com/royadeh/bookmarks-api-claude-code)
+ 
 ---
 
-## My Public Projects
-
+## Other projects
 
 ### Healthcare Q&A Chatbot Using Sentence Embeddings and Gemini
 
-A conversational chatbot that helps users understand healthcare topics by retrieving relevant patient education materials using sentence embeddings and generating simplified, easy-to-understand explanations with the Gemini language model. It combines advanced embedding techniques with Gemini’s conversational AI to provide clear, patient-friendly responses.
+A conversational chatbot that helps users understand healthcare topics by retrieving relevant patient education materials using sentence embeddings and generating simplified, easy-to-understand explanations with the Gemini language model.
 
 [Healthcare Q&A Chatbot Using Sentence Embeddings and Gemini](https://github.com/royadeh/Healthcare-Q-A-Chatbot-Using-Sentence-Embeddings-and-Gemini/tree/main)
 
@@ -64,30 +56,8 @@ A convolutional neural network for person re-identification across multiple came
 
 ---
 
-### Anomaly Detection 
+## Contact
 
-- No labels required — fully unsupervised  
-- Multiple models: Mahalanobis, k-NN, density ratio  
-- Visual anomaly heatmaps with Matplotlib  
-- Top anomalies ranked for each method
-  
- [Anomaly Detection](https://github.com/royadeh/Data-Science/blob/main/AnamolyDetection.ipynb)
-
----
-
-### Decision Tree-Based Credit Risk Prediction
-
-Developed a decision tree classifier on a financial credit dataset to predict credit risk. Implemented performance evaluation via cross-validation and holdout testing, and analyzed model overfitting via depth tuning.  
-[Decision Tree-Based Credit Risk Prediction](https://github.com/royadeh/Data-Science/blob/main/Decision%20Tree-Based%20Credit%20Risk%20Prediction.ipynb)
-
----
-
-## Contact Me
-
-Feel free to reach out for collaboration opportunities.   
-- Email: royadehghani94@gmail.com  
-- LinkedIn: [linkedin.com/in/rdehghani](https://linkedin.com/in/rdehghani)
-
-
+Best way to reach me: [LinkedIn](https://linkedin.com/in/rdehghani)
 
 ---
